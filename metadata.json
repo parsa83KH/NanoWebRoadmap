@@ -1,0 +1,6 @@
+{
+  "name": "نقشه راه توسعه نانو",
+  "description": "ارائه گرافیکی و اینفوگرافیک هوشمند بخش اول نقشه راه توسعه آزمایشگاهی نانو",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
